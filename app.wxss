@@ -1,0 +1,10 @@
+page,
+view,
+image,
+swiper,
+swiper-item,
+button,
+navigator,
+video {
+    box-sizing: border-box;
+}

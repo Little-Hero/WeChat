@@ -1,0 +1,36 @@
+.c_head {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  padding: 10rpx;
+}
+
+.logo_icon {
+  flex: 6;
+}
+
+.search_icon {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.user_icon {
+  flex: 2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.down_icon {
+  flex: 3;
+  font-size: 30rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #0094ff;
+  color: white;
+  border-radius: 10rpx;
+  padding: 10rpx;
+}
